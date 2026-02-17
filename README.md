@@ -11,3 +11,4 @@ This is the ATG Seminars training website. It showcases upcoming seminars, train
 
 ## Deployment
 This site is deployed on Vercel and automatically updates when changes are pushed to the main branch.
+# Updated
